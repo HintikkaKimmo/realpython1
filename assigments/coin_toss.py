@@ -6,11 +6,9 @@ flips = 0
 # pdb.set_trace()
 
 for tries in range(0, 10000):
-
-    flip = randint(0, 1)
     flips += 1
+    flip = randint(0, 1)
     while flip != randint(0, 1):
-        print(flip)
         flips += 1
 
 print(flips)
