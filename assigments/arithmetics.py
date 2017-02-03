@@ -1,3 +1,5 @@
+# Exercise page 125 around arithmetic
+
 print('1 + 1 =', 1 + 1)
 print('2 * (2 + 3) =', 2 * (2 + 3))
 print('1.2 / 0.3 = ', 1.2 / 0.3)
